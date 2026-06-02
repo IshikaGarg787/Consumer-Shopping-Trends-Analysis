@@ -1,4 +1,4 @@
-# Consumer Shopping Preference Prediction
+# Kaggle - Consumer Shopping Preference Prediction
 
 This project uses machine learning models to predict customer shopping preferences (Online, Store, Hybrid) based on behavioral and demographic data.
 
